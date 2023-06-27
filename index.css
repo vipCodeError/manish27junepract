@@ -1,0 +1,25 @@
+html,
+body {
+  height: 100%;
+  background-color: #8c8c8c;
+}
+
+body {
+  display: flex;
+  align-items: stretch;
+  font-family: 'Poppins';
+}
+
+.rounded-card {
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  height: 95%;
+  width: 100%;
+  margin-top: 15px;
+  border-radius: 18px;
+  background-color: #fff;
+  -webkit-box-shadow: -3px -8px 8px -7px rgba(189, 189, 189, 1);
+  -moz-box-shadow: -3px -8px 8px -7px rgba(189, 189, 189, 1);
+  box-shadow: -3px -8px 8px -7px rgba(189, 189, 189, 1);
+}
