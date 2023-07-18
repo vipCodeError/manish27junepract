@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.finish{
+    display: flex;
+}
+.thums_up{
+    height: 60px;
+    width: 70px;
+    text-align: center;
+}
+.thumb-up-icon{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    margin-left: 10px;
+    margin-top: 5px;
+    background-color: #f5f6fa;
+}
+.green{
+    color: #44bd32;
+    font-weight: bolder;
+    margin-left: 3px;
+}
+.tumb-icon-Padding{
+    padding-top: 6px;
+}
+.eighteen{
+    font-weight: 600;
+}
+
+
+
+
